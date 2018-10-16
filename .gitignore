@@ -10,7 +10,7 @@
 /build
 
 # intellij stuff
-.idea/workspace.xml
+.idea/**/workspace.xml
 
 # misc
 .DS_Store
